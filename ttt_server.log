@@ -1,0 +1,17 @@
+[2017-06-20 07:30:38] INFO: Reserved port 8333
+[2017-06-20 07:30:38] INFO: Listening to port 8333
+[2017-06-20 07:31:37] INFO: Received connection from ('127.0.0.1', 23928)
+[2017-06-20 07:32:12] WARNING: Player 1 connection lost.
+[2017-06-20 07:54:35] INFO: Reserved port 8080
+[2017-06-20 07:54:35] INFO: Listening to port 8080
+[2017-06-20 07:54:45] INFO: Received connection from ('10.110.120.67', 24549)
+[2017-06-20 07:55:05] INFO: Received connection from ('10.110.120.67', 24552)
+[2017-06-20 07:55:05] INFO: Player 2 is matched with player 1
+[2017-06-20 07:55:38] INFO: Received connection from ('10.110.120.67', 24561)
+[2017-06-20 07:55:39] INFO: Received connection from ('10.110.120.67', 24563)
+[2017-06-20 07:55:40] INFO: Player 4 is matched with player 3
+[2017-06-20 07:56:08] INFO: Received connection from ('10.110.120.67', 24568)
+[2017-06-20 07:56:16] WARNING: Player 5 connection lost.
+[2017-06-20 07:58:26] INFO: Reserved port 8080
+[2017-06-20 07:58:26] INFO: Listening to port 8080
+[2017-06-20 07:58:35] INFO: Received connection from ('10.110.120.67', 24594)
